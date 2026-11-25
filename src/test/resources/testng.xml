@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="State Street Rebalancer Suite">
+
+    <test name="Rebalancer API Tests">
+
+        <packages>
+            <package name="com.statestreet.rebalancer.tests"/>
+        </packages>
+
+    </test>
+
+</suite>
